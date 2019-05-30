@@ -1,0 +1,15 @@
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EfCodefirstApp.exe.config
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EfCodefirstApp.exe
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EfCodefirstApp.pdb
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EntityFramework.dll
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EntityFramework.xml
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.csprojAssemblyReference.cache
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.csproj.CoreCompileInputs.cache
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.csproj.CopyComplete
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.exe
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.pdb
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.Migrations._08042019Initial.resources
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.csproj.GenerateResource.cache
+C:\Users\ercan\source\Arastirmalarim\EFCodefirst\EfCodefirstApp\obj\Debug\EfCodefirstApp.Migrations._08042019Sehir.resources
